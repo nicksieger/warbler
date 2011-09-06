@@ -1,7 +1,7 @@
 = Warbler
 
-This repository has been moved to {github.com/jruby/warbler}[/jruby/warbler].
+This repository has been moved to {github.com/jruby/warbler}[https://github.com/jruby/warbler].
 
-If you want to fork or file a bug or a pull request, please do so in the {main repository}[/jruby/warbler].
+If you want to fork or file a bug or a pull request, please do so in the {main repository}[https://github.com/jruby/warbler].
 
 Thanks!
